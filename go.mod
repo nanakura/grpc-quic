@@ -1,6 +1,8 @@
-module quic-grpc
+module gitee.com/asphodelus_dev/grpc-quic
 
-go 1.22
+go 1.21
+
+toolchain go1.22.0
 
 require (
 	github.com/quic-go/quic-go v0.42.0

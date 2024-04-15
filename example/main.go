@@ -8,12 +8,11 @@ import (
 	"crypto/x509"
 	"encoding/pem"
 	"fmt"
+	hello_grpc "gitee.com/asphodelus_dev/grpc-quic/proto"
 	"github.com/quic-go/quic-go"
 	"google.golang.org/grpc"
 	"log"
 	"math/big"
-	"quic-grpc"
-	hello_grpc "quic-grpc/proto"
 	"time"
 )
 
