@@ -1,4 +1,4 @@
-module github.com/nanakura/grpc-quic
+module github.com/islatan/grpc-quic
 
 go 1.22
 
